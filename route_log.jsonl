@@ -1,0 +1,18 @@
+{"timestamp": "2026-03-12 14:07:50.914284", "input": "fix this bug pls: for i in range(10) print(i)", "intent": "code", "confidence": 0.9}
+{"timestamp": "2026-03-12 14:08:55.366544", "input": "\u001a\u001a\u001a\u0018x", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:09:03.176092", "input": "\u001a\u001a", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:09:03.388430", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:09:06.540480", "input": "\u001aclear", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:09:49.163035", "input": "\u001ar:exit", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:10:33.361266", "input": "how do i sort a list of objects in python?", "intent": "code", "confidence": 0.9}
+{"timestamp": "2026-03-12 14:10:33.612944", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:10:40.671640", "input": "what's the average of these numbers: 12,45,23", "intent": "data", "confidence": 0.88}
+{"timestamp": "2026-03-12 14:10:40.954499", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:10:48.816595", "input": "rewrite this sentence to be more professional", "intent": "writing", "confidence": 0.87}
+{"timestamp": "2026-03-12 14:10:48.944897", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:10:54.617255", "input": "I'm preparing for a job interview", "intent": "career", "confidence": 0.89}
+{"timestamp": "2026-03-12 14:10:54.728851", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:11:02.722042", "input": "hey", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:11:03.157714", "input": "", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:11:13.657861", "input": "route_log.jsonl", "intent": "unclear", "confidence": 0.5}
+{"timestamp": "2026-03-12 14:11:13.795100", "input": "", "intent": "unclear", "confidence": 0.5}
