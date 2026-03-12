@@ -26,6 +26,8 @@ The system detects the following intents:
 - `writing` – Content rewriting and writing improvement
 - `career` – Resume, interview, and career advice
 - `unclear` – Ambiguous or unrelated queries
+<img width="673" height="276" alt="image" src="https://github.com/user-attachments/assets/dd977ed3-7bd9-4aaf-a36d-e1d5bc020e87" />
+
 llm-prompt-router
 │
 ├── app.py # Main application
